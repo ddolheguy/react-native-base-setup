@@ -1,0 +1,11 @@
+{
+  "translation": {
+    "authentication.screen.title": "Login",
+    "authenticate.title": "Login",
+    "authenticate.emailAddress.label": "Email Address",
+    "authenticate.password.label": "Password",
+    "authenticate.loginButton": "Login",
+    "home.welcome": "Welcome {{name}}",
+    "home.logout": "Logout"
+  }
+}
